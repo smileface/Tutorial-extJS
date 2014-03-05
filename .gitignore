@@ -1,0 +1,15 @@
+#common
+*~
+#*.php~
+.idea/
+
+#yii
+/assets/
+/protected/runtime/*
+/protected/config/local.php
+/uploads/
+/passwd
+/tmp/
+
+#composer
+/vendor/
